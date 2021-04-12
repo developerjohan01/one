@@ -1,0 +1,5 @@
+total 5
+drwxr-xr-x 1 niljoh01 1049089  0 Apr 12 21:02 ./
+drwxr-xr-x 1 niljoh01 1049089  0 Apr 12 20:57 ../
+-rw-r--r-- 1 niljoh01 1049089 67 Apr 12 20:59 some-file.txt
+-rw-r--r-- 1 niljoh01 1049089  0 Apr 12 21:02 some-other-file.txt
